@@ -1,0 +1,20 @@
+{
+    "ACC-001": {
+        "nombre": "Fabi\u00c3\u00a1n Torres",
+        "saldo": 500000.0,
+        "estado": "ACTIVA",
+        "historial": []
+    },
+    "ACC-002": {
+        "nombre": "Juan Daza",
+        "saldo": 150000.0,
+        "estado": "ACTIVA",
+        "historial": []
+    },
+    "ACC-003": {
+        "nombre": "Cuenta Bloqueada Prueba",
+        "saldo": 10000.0,
+        "estado": "INACTIVA",
+        "historial": []
+    }
+}
